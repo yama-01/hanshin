@@ -7,6 +7,12 @@ a {
   color:white;
   
 }
+.clear{
+  clear:left;
+}
+*{
+  box-sizing:border-box;
+}
 
 .top-wrapper {
   padding: 180px 0 100px 0;

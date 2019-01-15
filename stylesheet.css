@@ -14,6 +14,7 @@ a {
   box-sizing:border-box;
 }
 
+
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(S__7454722.png);
@@ -216,7 +217,7 @@ table td{
 }
 
 .lesson-wrapper {
-  height: 565px;
+  
   padding-bottom: 80px;
   background-color: #f7f7f7;
   text-align: center;
@@ -338,10 +339,18 @@ footer p {
   color: #b3aeb5;
   font-size: 12px;
   line-height:45px;
+  float:left;
 }
 
 footer {
   padding-top: 10px;
+}
+.footer-left{
+    float:left;
+    margin-right:10px;
+}
+.footer-icon{
+    
 }
 
 * {

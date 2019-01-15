@@ -2,6 +2,7 @@
 @media all and (max-width: 1000px) {
   .top-wrapper h1{
     font-size:32px;
+    text-align:center;
   }
   .lesson{
     width:50%;
@@ -9,13 +10,13 @@
   }
   .heading h2{
     font-size:20px;
+    text-align:center;
   }
   .lesson-wrapper .heading{
     font-size:20px;
-  }
-  footer{
     text-align:center;
   }
+ 
 }
 
 /* モバイル向けレイアウト */
@@ -28,15 +29,18 @@
   }
   .top-wrapper h1{
     font-size:24px;
+    text-align:center;
   }
   .top-wrapper{
-    text-align:left;
+    text-align:center;
   }
   .top-wrapper p{
     font-size:14px;
+    text-align:center;
   }
   .btn{
     width:100%;
+    text-align:center;
   }
   .instagram{
     margin-bottom:10px;

@@ -17,6 +17,7 @@
     text-align:center;
   }
  
+ 
 }
 
 /* モバイル向けレイアウト */
@@ -49,7 +50,10 @@
   .lesson{
     width:100%;
   }
-  
+  .faq-wrapper{
+      font-size:14px;
+    text-align:center;
+  }
  
   
 }

@@ -158,8 +158,8 @@ header {
 
 .fa-times {
   position: absolute;
-  top: 12px;
-  right: 12px;
+  top: 3%;
+  right: 3%;
   color: rgba(128, 128, 128, 0.46);
   cursor: pointer;
 }

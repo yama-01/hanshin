@@ -145,14 +145,15 @@ header {
 
 .modal {
   position: absolute;
-  top: 20%;
-  left: 34%;
+  top: 50%;
+  left: 50%;
   background-color: #e6ecf0;
   padding: 20px 0 40px;
   border-radius: 10px;
-  width: 450px;
+  max-width: 450px;
   height: auto;
   text-align: center;
+  transform: translate(-50%, -50%);
 }
 
 .fa-times {
@@ -171,6 +172,10 @@ header {
   color: red;
   letter-spacing: 1px;
   margin-bottom: 20px;
+}
+#signup-form img{
+    margin:0 auto;
+    width:90%;
 }
 
 #signup-form input {
